@@ -3,7 +3,7 @@ import React from "react";
 const Scroll = (props) => {
   return (
     <div
-      class="scroll"
+      className="scroll"
       style={{
         overflow: "scroll",
         border: "5px solid black",
