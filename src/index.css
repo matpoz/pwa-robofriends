@@ -12,3 +12,7 @@ body {
     rgba(0, 128, 128, 1) 100%
   ); /* w3c */
 }
+
+::-webkit-scrollbar {
+  display: none;
+}
